@@ -1,1 +1,3 @@
-# ai-product-finder
+I want to create an app in which a user will enter a product name, product description, or requirements, and the app will suggest suitable products based on the user’s budget and preferences. It should provide product specifications, key features, advantages, disadvantages, and comparisons between alternatives. If current prices or availability are displayed, the app should retrieve them from reliable sources or APIs rather than inventing them.
+
+I will use Streamlit for the UI. I will use the Gemini Flash model for AI models. Give me three files: app.py, README.md, and requirements.txt. Make sure to review and test the code before giving me the code. Also, tell me how to push the project to GitHub and deploy it on Streamlit Community Cloud.
